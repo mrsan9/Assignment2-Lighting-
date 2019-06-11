@@ -19,4 +19,4 @@ How to use:
 
 - Demo1 (gif):
  
-  ![](https://i.imgur.com/Wbsgv8w.gif)
+  ![](https://i.imgur.com/7VDm83R.gif)
