@@ -6,11 +6,12 @@ How to use:
 *Open the executable file (PhongModel.exe) directly from the "Executable" folder or compile the solution.
 
 **Features
-       
+
         1.Phong lighting model
           *Ambient lighting
           *Diffuse lighting
           *Specular lighting
+          
         2.Material Properties        
         
 
