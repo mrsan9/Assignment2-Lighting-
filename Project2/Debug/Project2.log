@@ -1,0 +1,27 @@
+﻿  Source.cpp
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(171): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(185): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(186): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(187): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(258): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(283): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(288): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(289): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(290): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(291): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\opengl\practice\cameraassignment2\project2\source.cpp(300): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> D:\Projects\OpenGL\Practice\CameraAssignment2\Debug\Project2.exe
