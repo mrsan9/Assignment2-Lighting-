@@ -19,11 +19,6 @@ How to use:
 ## Assignment 1
 
 - Demo1 (gif):
- 
-  ![](https://github.com/mrsan9/Boyhood---Fez-Mechanics/blob/master/ScreenShots/ss1.PNG)
 
-  ![](https://github.com/mrsan9/Boyhood---Fez-Mechanics/blob/master/ScreenShots/ss2.PNG)
-  
-  ![](https://github.com/mrsan9/Boyhood---Fez-Mechanics/blob/master/ScreenShots/ss3.PNG)
-  
-  ![](https://github.com/mrsan9/Boyhood---Fez-Mechanics/blob/master/ScreenShots/ss4.PNG)
+ ![](https://i.imgur.com/7VDm83R.gif)
+ 
